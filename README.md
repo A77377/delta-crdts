@@ -1,2 +1,2 @@
 # delta-crdts
-Delta-state Conflict-free Replicated Data Types
+Deterministic and Probabilistic Delta-state Conflict-free Replicated Data Types
